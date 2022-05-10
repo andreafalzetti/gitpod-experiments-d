@@ -1,0 +1,9 @@
+jetbrains:
+  intellij:
+    prebuilds:
+      version: stable
+    plugins:
+      - "org.asciidoctor.intellij.asciidoc"
+
+tasks:
+  - command: echo 'start script'
