@@ -1,2 +1,2 @@
-//tasks:
-//  - command: echo 'start script'
+#tasks:
+#  - command: echo 'start script'
